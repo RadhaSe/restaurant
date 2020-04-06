@@ -21,7 +21,38 @@
 	 "offers_coupon_code":"TESTCODE",
 	"user_rating":4.9,
 	"delivery_time":"45 mins",
-	"thumb_url":"https://b.zmtcdn.com/data/pictures/4/18595414/d69428e6b8271110b778f9f37a882cce.jpg"
+	"thumb_url":"https://b.zmtcdn.com/data/reviews_photos/36f/4677a9aeebef76c9dacb23f4cebbf36f_1580634369.jpg"
+    },
+	  {
+     "id":3,
+	"name":"The Big Barbeque",
+	"cuisines": "North Indian, Street Food, Desserts, BBQ",
+	"average_cost_for_two":1400,
+	"user_rating":4.9,
+	"delivery_time":"30 mins",
+	"thumb_url":"https://b.zmtcdn.com/data/pictures/chains/2/19282432/a89232ae67ebc2c9eba00bd0a0327b59.jpeg"
+    },
+	  {
+     "id":4,
+	"name":"Savoury Sea Shell",
+	"cuisines": "Arabian, Chinese, North Indian, Lebanese, Salad",
+	"average_cost_for_two":1400,
+	"offers_discount":50,
+	 "offers_coupon_code":"TESTCODE",
+	"user_rating":4.9,
+	"delivery_time":"25 mins",
+	"thumb_url":"https://b.zmtcdn.com/data/pictures/8/65518/ad5471550587528b245fc0dcc3423572.jpg"
+    },
+	  {
+     "id":5,
+	"name": "Yaa Mohaideen Biryani",
+	 "cuisines": "Biryani, Chettinad, North Indian, Mughlai",
+	"average_cost_for_two":700,
+	"offers_discount":50,
+	 "offers_coupon_code":"TESTCODE",
+	"user_rating":4.9,
+	"delivery_time":"40 mins",
+	"thumb_url":"https://b.zmtcdn.com/data/pictures/chains/1/71171/026027d357edc880a03fc51c8864a226.jpg"
     }
   ]
 }
