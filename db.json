@@ -11,7 +11,7 @@
 	    discount:10,
 	    coupon_code:"TESTCODE"
             }
-	    ];
+	    ],
 	"user_rating":4.9,
 	"delivery_time":"30 mins",
 	"thumb_url":"https://b.zmtcdn.com/data/pictures/4/18595414/d69428e6b8271110b778f9f37a882cce.jpg"
@@ -26,7 +26,7 @@
 	    discount:30,
 	    coupon_code:"TESTCODE"
             }
-	    ];
+	    ],
 	"user_rating":4.9,
 	"delivery_time":"45 mins",
 	"thumb_url":"https://b.zmtcdn.com/data/pictures/4/18595414/d69428e6b8271110b778f9f37a882cce.jpg"
