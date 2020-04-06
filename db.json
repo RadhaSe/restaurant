@@ -8,8 +8,8 @@
 	"average_cost_for_two":1400,
 	"offers": [
 	    {
-	    discount:10,
-	    coupon_code:"TESTCODE"
+	    "discount":10,
+	    "coupon_code":"TESTCODE"
             }
 	    ],
 	"user_rating":4.9,
@@ -23,8 +23,8 @@
 	"average_cost_for_two":140,
 	"offers": [
 	    {
-	    discount:30,
-	    coupon_code:"TESTCODE"
+	    "discount":30,
+	    "coupon_code":"TESTCODE"
             }
 	    ],
 	"user_rating":4.9,
