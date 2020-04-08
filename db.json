@@ -4,7 +4,7 @@
     {
      "id":1,
 	"name":"Coal Barbecues",
-	"cuisines":"North Indian, Chinese",
+	"cuisines":"North Indian, South Indian, Chinese, Briyani, Chaat, Desserts",
 	"average_cost_for_two":1400,
     	"offers_discount":10,
 	"offers_coupon_code":"TESTCODE",
